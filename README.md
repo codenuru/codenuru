@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:computer: &nbsp;&nbsp; I'm a full-stack software developer. <br/>
+:computer: &nbsp;&nbsp; I'm a software developer. <br/>
 :mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
 🔭 &nbsp;&nbsp; Looking forward to start/contribute to open source projects.<br/>
 
